@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 7c50fabd-d82a-456d-d14d-291cdd570d29
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: be0fc42f-f90b-6dff-3cef-820efb271565
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: d133dba8-925a-e383-eac4-0b73cca3db1d
+  name: Meet the Educator
+  pageRef: /pages/instructor-insights/meet-the-educator
+  parent: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
+  weight: 40
+- identifier: 4ad8a5cb-6660-25e2-162f-e078cff61395
+  name: What Makes this Subject Distinctive?
+  pageRef: /pages/instructor-insights/what-makes-this-subject-distinctive
+  parent: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
+  weight: 50
+- identifier: 6f6441e0-b6d2-cd17-5727-c36edc0e37e4
+  name: 'Supporting Students with Supplementary Opportunities '
+  pageRef: /pages/instructor-insights/supporting-students-with-supplementary-opportunities
+  parent: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
+  weight: 60
+- identifier: 9488a177-4d0d-7ddc-acd8-2ad6acfad177
+  name: How Would You Like Your Grade?
+  pageRef: /pages/instructor-insights/how-would-you-like-your-grade
+  parent: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
+  weight: 70
+- identifier: 817d3d33-4c15-d8d5-9fd2-b7d57652d11a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 737e0ab1-eeb2-b8cc-e206-27e32dde18bf
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 90
+- identifier: d7c629c9-ad73-50eb-5c65-c8f5e4f76b3f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
+- identifier: 15c61837-e034-7eb8-2d8d-12d51bde4c9e
+  name: Exams
+  pageRef: /pages/exams
+  weight: 110
